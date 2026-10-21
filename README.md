@@ -1,3 +1,7 @@
+<!-- portfolio-strip:start (brief 40) -->
+<sub>**Brendan Lynskey** · [Portfolio home](https://brendanjameslynskey.github.io/) · [Interactive sites](https://brendanjameslynskey.github.io/#sites)</sub>
+<!-- portfolio-strip:end -->
+
 # Production LLMOps
 
 Gateways, observability, caching strategies and cost / SLO discipline &mdash; the operational layer that turns a working prototype into a service you can run at scale.
